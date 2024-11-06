@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+}
+#colorsBlock
+{
+    height: 60px;
+    width: 275px;
+    border: 1px solid grey;
+    padding: 5px;
+}
+
+.color{
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    border: 1px solid grey;
+}
+
+p{
+    width: 700px;
+}
